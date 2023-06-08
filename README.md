@@ -13,7 +13,7 @@
 
   Glowing is a fully responsive ecommerce website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/glowing/"><strong>➥ Live Demo</strong></a>
+  <a href="https://beautysmiles.in/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ### Demo Screeshots
 
-![Glowing Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Glowing Desktop Demo]()
 
 ### Prerequisites
 
@@ -47,7 +47,7 @@ git clone https://github.com/codewithsadee/glowing.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter].
 
 ### License
 
