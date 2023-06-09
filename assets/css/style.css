@@ -744,7 +744,7 @@ body {
   display: grid;
   grid-template-columns: 0.7fr 1fr;
   align-items: center;
-  gap: 30px;
+  gap: 10px;
   margin-block-end: 60px;
 }
 
@@ -1185,7 +1185,7 @@ body {
     display: grid;
     grid-template-columns: 1fr 0.7fr;
     align-items: center;
-    gap: 30px;
+    gap: 20px;
   }
 
   .offer-banner { margin-block-end: 0; }
@@ -1408,6 +1408,6 @@ body {
    * OFFER
    */
 
-  .offer .container { gap: 120px; }
+  .offer .container { gap: 50px; }
 
 }
