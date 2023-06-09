@@ -1411,3 +1411,17 @@ body {
   .offer .container { gap: 50px; }
 
 }
+
+/* 
+   pdf css
+*/
+.offer-contents{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  background-color: #000;
+}
+.offer-contents i{
+  font-size: 1rem;
+}
