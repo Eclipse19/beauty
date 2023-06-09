@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="contact.css">
+</head>
+<body>
+    <section class="section section-contact">
+        <div class="container">
+          <h2 class="common-heading">Contact Us</h2>
+        </div>
+  
+        <div class="section-contact-main contact-container">
+          <form  action="https://formspree.io/f/mpzegnyo"
+          method="POST">
+            <div class="grid grid-two-column">
+              <div>
+                <label for="username"></label>
+                <input
+                  type="text"
+                  name="yourname"
+                  placeholder="Username"
+                  id="username"
+                  required
+                  autocomplete="off"
+                />
+              </div>
+              <div>
+                <label for="email"></label>
+                <input
+                  type="email"
+                  name="email"
+                  placeholder="demo@mail.com"
+                  id="email"
+                  autocomplete="off"
+                  required
+                />
+              </div>
+            </div>
+  
+            <div>
+              <label for="mobile numbar"></label>
+              <input
+                type="text"
+                name="mobile number"
+                placeholder="mobile number"
+                id="mobile numbar"
+                autocomplete="off"
+                required
+              />
+            </div>
+            <div>
+              <label for="textarea"></label>
+              <textarea
+                name="textarea"
+                id="textarea"
+                cols="25"
+                rows="8"
+                autocomplete="off"
+                placeholder="Write your message and area you live"
+                required
+              ></textarea>
+            </div>
+  
+            <div>
+              <input
+                type="submit"
+                name="submit"
+                id="submit"
+                class="btn"
+                value="send message"
+              />
+            </div>
+          </form>
+        </div>
+      </section>
+  
+</body>
+</html>
