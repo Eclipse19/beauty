@@ -7,7 +7,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background-image: url('../assets/images/background.jpg');
+    background-image: url('../assets/images/bg\ 3.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -16,8 +16,9 @@ body {
     text-align: center;
     font-size: 3rem;
     margin-top: 10rem;
-    color: gray;
+    color: rgb(255, 255, 255);
 }
+
 .section-contact-main {
     max-width: 30rem;
     margin: 0 auto;
@@ -36,17 +37,19 @@ body {
   .section-contact-main input,
   textarea {
     padding: 0.5rem 1rem;
-    border: 0.1rem solid #8d99ae;
+    border: 0.1rem solid #da1b1b;
     border-radius: 5px;
     width: 100%;
     font-size: 1.6rem;
     font-family: "work sans";
     margin-top: 1rem;
+    background: transparent;
   }
   
   .section-contact-main textarea {
     height: 10rem;
   }
+  
   
   /* ::placeholder {
     font-size: 1.6rem;
@@ -72,12 +75,14 @@ body {
       .section-contact-main input,
   textarea {
     padding: 0.5rem 0.5rem;
-    border: 0.1rem solid #8d99ae;
+    border: 0.1rem solid #f6f6f6;
     border-radius: 5px;
     width: 100%;
     font-size: 1.2rem;
     font-family: "work sans";
     margin-top: 1rem;
+    background: transparent;
+    color: #fff;
   }
   .common-heading{
     font-size: 2.5rem;
@@ -95,7 +100,7 @@ body {
       .section-contact-main input,
   textarea {
     padding: 0.5rem 0.5rem;
-    border: 0.1rem solid #8d99ae;
+    border: 0.1rem solid #f8faff;
     border-radius: 5px;
     width: 100%;
     font-size: 1.2rem;

@@ -28,7 +28,8 @@
 }
 .wax_product{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
+    align-items: center;
     border: 2px solid  #03045e;
     padding: 1rem 1rem;
     margin-top: 1rem;
