@@ -28,7 +28,7 @@
 }
 .wax_product{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     border: 2px solid  #03045e;
     padding: 1rem 1rem;
@@ -55,6 +55,19 @@
 .bot{
     margin-bottom: 2rem;
 }
+.colorbg{
+    background-color: #faf0ca;
+    padding: 1.5rem;
+}
+.discripations{
+    color: #2196f3;
+}
+.button_cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 1rem;
+}
 .btn_go_to_cart{
     padding: 0.5rem 7.4rem;
     font-size: 1.3rem;
@@ -69,17 +82,4 @@
     background-color: #48cae4;
     color: #000;
     outline: none;
-}
-.button_cont{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding-top: 1rem;
-}
-.colorbg{
-    background-color: #faf0ca;
-    padding: 1.5rem;
-}
-.discripations{
-    color: #2196f3;
 }
