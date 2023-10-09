@@ -56,11 +56,11 @@
     margin-bottom: 2rem;
 }
 .colorbg{
-    background-color: #faf0ca;
+    background-color: #023e8a;
     padding: 1.5rem;
 }
 .discripations{
-    color: #2196f3;
+    color: #fff;
 }
 .button_cont{
     display: flex;
@@ -71,10 +71,11 @@
 .btn_go_to_cart{
     padding: 0.5rem 7.4rem;
     font-size: 1.3rem;
-    background-color: #0e6ba8;
-    color: #fff;
+    background-color: #ece4db;
+    color: #000;
     outline: none;
     transition: 0.3s all ease-in-out;
+    border-radius: 8px;
 }
 .btn_go_to_cart:hover{
     padding: 0.5rem 7.4rem;
